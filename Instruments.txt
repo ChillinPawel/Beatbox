@@ -1,0 +1,16 @@
+35. Bass Drum
+42. Closed Hi-Hat
+46. Open Hi-Hat
+38. Acoustic Snare
+49. Crash Cymbal
+39. Hand Clap
+50. High Tom
+60. Hi Bongo
+70. Maracas
+72. Whistle
+64. Low Conga
+56. Cowbell
+58. Vibraslap
+47. Low-mid Tom
+67. High Agogo
+63. Open Hi Conga
